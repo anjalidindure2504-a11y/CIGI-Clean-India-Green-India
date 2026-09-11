@@ -77,6 +77,12 @@ Rewards & Analytics
 - Government/municipal integration
 - Advanced sanitation analytics
 
+## 🔗 Project Links
+
+🌐 **Prototype:** [View CIGI Prototype](https://dynamic-rugelach-f40b90.netlify.app/)
+
+🎥 **Demo Video:** [Watch CIGI Demo](https://youtu.be/IK-u0mAfTQU?si=Kbd_-8FfcIkEe67a)
+
 ## 👩‍💻 Team
 
 EcoMinds
